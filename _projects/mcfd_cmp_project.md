@@ -43,9 +43,18 @@ Both parties are about to create accounts on both machines such that the first t
 * Scalability analysis of the AICS code has been performed on JUQUEEN
 * JSC C++11 code does not compile on K computer using the Fujitsu compiler, error messages will be collected and reported to AICS for compiler improvements
 
+## Results for 2016/2017
+
+* Deep knowlegde exchange w.r.t. the computational methods applied by both groups
+* JSC code has been compiled with node-installed GCC; validity and performance tests are pending
+* AICS code has been ported to GPUs at JSC GPU Hackathon 2017
+
 ## Visits and meetings
 
-No visits yet.
+* 16.06.2016 - 17.06.2016: Keiji Onishi (RIKEN) -> Visit RWTH Aachen University and JSC Jülich; meeting at JSC
+* 26.06.2016 - 29.06.2017: Andreas Lintermann (JSC) -> Participation JLESC meeting Lyon
+* 28.11.2016 - 02.12.2016: Thomas Schilden (RWTH, JSC) -> Participation Young Researchers Workshop & JLESC Riken
+* 06.03.2017 - 10.03.2017: Rahul Bale, Wei-Hsiang Wang, Koji Nishiguchi (all RIKEN) -> Participation GPU Hackathon at JSC Jülich; meeting at JSC
 
 ## Impact and publications
 No publications yet.
